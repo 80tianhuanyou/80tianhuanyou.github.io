@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://80tianhuanyou.io/"/>
-  <updated>2016-09-08T23:20:11.000Z</updated>
+  <updated>2016-09-09T22:42:21.000Z</updated>
   <id>http://80tianhuanyou.io/</id>
   
   <author>
@@ -16,228 +16,16 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>在线教育观察</title>
-    <link href="http://80tianhuanyou.io/2016/09/09/online-eduction-observation/"/>
-    <id>http://80tianhuanyou.io/2016/09/09/online-eduction-observation/</id>
-    <published>2016-09-08T23:55:53.000Z</published>
-    <updated>2016-09-08T23:20:11.000Z</updated>
-    
-    <content type="html"><![CDATA[<blockquote>
-<p>这是最好的时代，这是最坏的时代<br>这是黑暗的季节，这是光明的季节</p>
-</blockquote>
-<p>随着技术的发展，包括上网速度和带宽的提升，近年来的在线教育有了一个质的发展，我们已经走进了一个在线教育的新时代。我把在线教育到目前的发展分为两个时期：</p>
-<p><strong>1.0时期：</strong>文本为主的静态教程和不可交互的在线视频，本质都是静态信息<br><strong>2.0时期：</strong>可交互的文本和可交互的视频，如<a href="www.codecademy.com">codecademy</a>和<a href="www.coursera.org">cousera</a>。<br><a id="more"></a></p>
-<p>codecademy支持以交互式的方式学习编程，不用安装本地环境即可在线执行代码，查看结果，在线即可完成整个学习过程，效果和乐趣都大大增加了；coursera是我觉得质量最高的mooc平台，视频来源于世界著名大学，教学水平很高。带有交互性的问答，在线测验，课程论坛，同学相互检查作业等功能，已经很接近真实课堂了。</p>
-<p>以教学质量和知识的更新速度来说，我觉得至少是计算机专业的同学，真的可以不用上大学了，在网上有成套的视频可以看。以前也有视频，但是很散乱，没有交互性，没有支持。如今的课程是都被精心的组织好了，可以实现整个学习过程的闭环。</p>
-<table>
-<thead>
-<tr>
-<th>以前的视频</th>
-<th>现在的视频</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>可能并非专为在线学习设置</td>
-<td>专为在线课程设计</td>
-</tr>
-<tr>
-<td>无交互性</td>
-<td>有交互性，可运用HTML5，视频中途可插入交互式的问答</td>
-</tr>
-<tr>
-<td>又臭又长</td>
-<td>碎片化，支持手机观看</td>
-</tr>
-<tr>
-<td>配套资源不足（就孤零零一个视频）</td>
-<td>配套学习资源丰富，组织良好</td>
-</tr>
-<tr>
-<td>老师和学生无交互</td>
-<td>老师和学生可交互</td>
-</tr>
-<tr>
-<td>对知识掌握无检查点</td>
-<td>频密的检查掌握情况（视频中的交互问答和章节测试）</td>
-</tr>
-<tr>
-<td>课程设计无数据支持</td>
-<td>基于大数据和反馈及时调整课程</td>
-</tr>
-<tr>
-<td>录屏软件差，效果不好</td>
-<td>录屏效果好（缩放、highlight、黑板效果）</td>
-</tr>
-</tbody>
-</table>
-<p>国内大多数大学还没适应这种变化，但是国外的大学已经把很多课程搬到了网上，其课程制作水平很高，录个视频非常讲究，甚至是十几个人的团队制作一个课程，显然很重视。国内在courser上我目前只接触到清华大学和南京大学的视频。</p>
-<p><strong>如果我是老师，一定会考虑把课程搬上网，所有的课程都该搬上网</strong>，一劳永逸啊，N届的学生都可以看，辅以课堂指导就行了，线下以实践为主。</p>
-<p>世界变化太快了，但每个时代有每个时代的机会，不用抱怨，只有不断更新知识才能把握机会，不适者淘汰。</p>
-<p>现在VR出现了，以后把课程做成VR视频，对于教育是个巨大的变革。这个“以后”并不需要多久，很快就会出现了，我称之为在线教育3.0时代。</p>
-<p>马云很多年前说以后电子商务就是商务，没有人再去区分，如今事实上电子商务成了商务本身。那么我说以后在线教育就是教育本身。</p>
-]]></content>
+    <title>hello world</title>
+    <link href="http://80tianhuanyou.io/2016/09/10/hello%20world/"/>
+    <id>http://80tianhuanyou.io/2016/09/10/hello world/</id>
+    <published>2016-09-09T23:54:53.000Z</published>
+    <updated>2016-09-09T22:42:21.000Z</updated>
     
     <summary type="html">
     
-      &lt;blockquote&gt;
-&lt;p&gt;这是最好的时代，这是最坏的时代&lt;br&gt;这是黑暗的季节，这是光明的季节&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;随着技术的发展，包括上网速度和带宽的提升，近年来的在线教育有了一个质的发展，我们已经走进了一个在线教育的新时代。我把在线教育到目前的发展分为两个时期：&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;1.0时期：&lt;/strong&gt;文本为主的静态教程和不可交互的在线视频，本质都是静态信息&lt;br&gt;&lt;strong&gt;2.0时期：&lt;/strong&gt;可交互的文本和可交互的视频，如&lt;a href=&quot;www.codecademy.com&quot;&gt;codecademy&lt;/a&gt;和&lt;a href=&quot;www.coursera.org&quot;&gt;cousera&lt;/a&gt;。&lt;br&gt;
-    
     </summary>
     
-      <category term="思考" scheme="http://80tianhuanyou.io/categories/%E6%80%9D%E8%80%83/"/>
-    
-    
-      <category term="在线教育" scheme="http://80tianhuanyou.io/tags/%E5%9C%A8%E7%BA%BF%E6%95%99%E8%82%B2/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>多说评论错误解决 - 操作已过期,请刷新页面之后重新保存或提交</title>
-    <link href="http://80tianhuanyou.io/2016/09/07/duoshuo-comment-troubleshooting/"/>
-    <id>http://80tianhuanyou.io/2016/09/07/duoshuo-comment-troubleshooting/</id>
-    <published>2016-09-07T14:05:19.000Z</published>
-    <updated>2016-09-08T18:30:11.000Z</updated>
-    
-    <content type="html"><![CDATA[<p>如果你按照<strong><a href="https://huahuayu.github.io/2016/09/07/add-duoshuo-or-disqus-comment-plugin-for-hexo/" target="_blank" rel="external">为hexo添加多说或disqus评论系统</a></strong>的指引设置好了多说评论，但是评论时遇到这样的报错：“操作已过期,请刷新页面之后重新保存或提交。如果浏览器禁用了第三方Cookie，请先允许第三方Cookie，再进行尝试。” 本文可以解决你的问题。</p>
-<a id="more"></a>
-<h2 id="预期结果"><a href="#预期结果" class="headerlink" title="预期结果"></a>预期结果</h2><p>用手机和PC都可以评论成功</p>
-<h2 id="实际结果"><a href="#实际结果" class="headerlink" title="实际结果"></a>实际结果</h2><p>手机可以评论但是pc(mac+chrome)评论报错： 操作已过期,请刷新页面之后重新保存或提交。如果浏览器禁用了第三方Cookie，请先允许第三方Cookie，再进行尝试。</p>
-<p><strong>错误重现：</strong><br><img src="http://od3p9hvyr.bkt.clouddn.com/%E5%A4%9A%E8%AF%B4%E6%8A%A5%E9%94%99.gif" alt="pc评论报错"></p>
-<h2 id="措施一"><a href="#措施一" class="headerlink" title="措施一"></a>措施一</h2><p>因为发现chrome地址栏右上角有一个小叉，一般是禁用了什么东西，一看是禁用了第三方cookies，所以尝试开启，但是发现点了允许也没用，叉一直都在。</p>
-<p><strong>操作重现：</strong><br><img src="http://od3p9hvyr.bkt.clouddn.com/chrome%E7%AC%AC%E4%B8%89%E6%96%B9cookies%E8%AE%BF%E9%97%AE%E8%A2%AB%E5%B1%8F%E8%94%BD.gif" alt="允许不了第三方cookies"></p>
-<h2 id="措施二"><a href="#措施二" class="headerlink" title="措施二"></a>措施二</h2><p>去chrome设置中看一下cookies的设置情况,地址栏中直接访问：<code>chrome://settings/content</code>, 结果发现确实是在设置中禁用了第三方cookies, 按下图把它放开就好。</p>
-<p><strong>操作重现：</strong><br><img src="http://od3p9hvyr.bkt.clouddn.com/google%E7%AC%AC%E4%B8%89%E6%96%B9cookies%E6%9D%83%E9%99%90%E8%AE%BE%E7%BD%AE.gif" alt="设置中允许第三方cookies"></p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;如果你按照&lt;strong&gt;&lt;a href=&quot;https://huahuayu.github.io/2016/09/07/add-duoshuo-or-disqus-comment-plugin-for-hexo/&quot;&gt;为hexo添加多说或disqus评论系统&lt;/a&gt;&lt;/strong&gt;的指引设置好了多说评论，但是评论时遇到这样的报错：“操作已过期,请刷新页面之后重新保存或提交。如果浏览器禁用了第三方Cookie，请先允许第三方Cookie，再进行尝试。” 本文可以解决你的问题。&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="技术" scheme="http://80tianhuanyou.io/categories/%E6%8A%80%E6%9C%AF/"/>
-    
-    
-      <category term="hexo" scheme="http://80tianhuanyou.io/tags/hexo/"/>
-    
-      <category term="next" scheme="http://80tianhuanyou.io/tags/next/"/>
-    
-      <category term="blog" scheme="http://80tianhuanyou.io/tags/blog/"/>
-    
-      <category term="duoshuo" scheme="http://80tianhuanyou.io/tags/duoshuo/"/>
-    
-      <category term="多说" scheme="http://80tianhuanyou.io/tags/%E5%A4%9A%E8%AF%B4/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>为hexo添加多说或disqus评论系统</title>
-    <link href="http://80tianhuanyou.io/2016/09/07/add-duoshuo-or-disqus-comment-plugin-for-hexo/"/>
-    <id>http://80tianhuanyou.io/2016/09/07/add-duoshuo-or-disqus-comment-plugin-for-hexo/</id>
-    <published>2016-09-07T12:54:53.000Z</published>
-    <updated>2016-09-08T18:31:47.000Z</updated>
-    
-    <content type="html"><![CDATA[<p>hexo博客可添加第三方评论系统 多说 或者 Disqus，多说是国内的，Disqus是国外的：</p>
-<ul>
-<li>建议选择使用多说，因为通过chrome debug分析，最新测试（2016-09-07）Disque设置之后要加载很长时间，拖慢网站访问速度，hexo即使在本地都要加载几分钟直至超时。</li>
-<li>当同时设置了 多说 和 Disqus 时，优先选择多说。</li>
-</ul>
-<a id="more"></a>
-<h2 id="使用多说"><a href="#使用多说" class="headerlink" title="使用多说"></a>使用<a href="http://duoshuo.com/" target="_blank" rel="external">多说</a></h2><ol>
-<li><p>使用多说前需要先在多说创建一个站点。具体步骤如下：</p>
-<ol>
-<li>登录后在首页选择 “我要安装”。</li>
-<li>创建站点，填写站点相关信息。注意，<em>多说域名</em> 这一栏填写的即是你的 <code>duoshuo_shortname</code>。</li>
-</ol>
-</li>
-<li><p>编辑<strong>站点和主题的</strong> <code>_config.yml</code> 添加 <code>duoshuo_shortname</code> 字段（先搜索，如果有就不用），设置如下</p>
- <figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">duoshuo_shortname: your-duoshuo-shortname</div></pre></td></tr></table></figure>
-<p> （注）duoshuo short name: 你的多说二级域名去掉 .duoshuo.com 部分,如下：<br><img src="http://od3p9hvyr.bkt.clouddn.com/duoshuo_comment.jpg" alt="duoshuo comment"></p>
-</li>
-</ol>
-<h2 id="使用Disqus"><a href="#使用Disqus" class="headerlink" title="使用Disqus"></a>使用<a href="https://disqus.com" target="_blank" rel="external">Disqus</a></h2><p>编辑<strong>站点和主题</strong>的 <code>_config.yml</code> ，添加 <code>disqus_shortname</code> 字段（先搜索，如果有就不用），设置如下</p>
-<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">disqus_shortname: your-disqus-shortname</div></pre></td></tr></table></figure>
-<p>如需取消某个页面的评论，在md文件的front-matter中增加<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">comments: false</div></pre></td></tr></table></figure></p>
-<h2 id="参考文档"><a href="#参考文档" class="headerlink" title="参考文档"></a>参考文档</h2><p><a href="https://github.com/iissnan/hexo-theme-next/wiki/%E8%AE%BE%E7%BD%AE%E5%A4%9A%E8%AF%B4-DISQUS" target="_blank" rel="external">next官方说明</a> 上一版是15年6月的了，已不适用，通过实践来看文档需要做修改，所以我刚刚对它同步做了一个更新。</p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;hexo博客可添加第三方评论系统 多说 或者 Disqus，多说是国内的，Disqus是国外的：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;建议选择使用多说，因为通过chrome debug分析，最新测试（2016-09-07）Disque设置之后要加载很长时间，拖慢网站访问速度，hexo即使在本地都要加载几分钟直至超时。&lt;/li&gt;
-&lt;li&gt;当同时设置了 多说 和 Disqus 时，优先选择多说。&lt;/li&gt;
-&lt;/ul&gt;
-    
-    </summary>
-    
-      <category term="技术" scheme="http://80tianhuanyou.io/categories/%E6%8A%80%E6%9C%AF/"/>
-    
-    
-      <category term="hexo" scheme="http://80tianhuanyou.io/tags/hexo/"/>
-    
-      <category term="next" scheme="http://80tianhuanyou.io/tags/next/"/>
-    
-      <category term="blog" scheme="http://80tianhuanyou.io/tags/blog/"/>
-    
-      <category term="duoshuo" scheme="http://80tianhuanyou.io/tags/duoshuo/"/>
-    
-      <category term="Disqus" scheme="http://80tianhuanyou.io/tags/Disqus/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>微信支付宝打赏样式调整 - 求不晃</title>
-    <link href="http://80tianhuanyou.io/2016/09/07/wechat-alipay-reward-style-modify/"/>
-    <id>http://80tianhuanyou.io/2016/09/07/wechat-alipay-reward-style-modify/</id>
-    <published>2016-09-07T10:39:54.000Z</published>
-    <updated>2016-09-08T18:43:10.000Z</updated>
-    
-    <content type="html"><![CDATA[<h3 id="为博客添加打赏功能"><a href="#为博客添加打赏功能" class="headerlink" title="为博客添加打赏功能"></a>为博客添加打赏功能</h3><p><strong>参考链接：</strong></p>
-<ul>
-<li>next主题各种设置，包括打赏: <a href="http://theme-next.iissnan.com/theme-settings.html" target="_blank" rel="external">http://theme-next.iissnan.com/theme-settings.html</a></li>
-<li>打赏功能贡献者@habren的原帖: <a href="https://github.com/iissnan/hexo-theme-next/pull/687" target="_blank" rel="external">https://github.com/iissnan/hexo-theme-next/pull/687</a></li>
-</ul>
-<h3 id="hexo博客打赏样式调整"><a href="#hexo博客打赏样式调整" class="headerlink" title="hexo博客打赏样式调整"></a>hexo博客打赏样式调整</h3><p>看图说话，大家可以对比下调整前和调整后的效果。调整前真是晃瞎眼，读者被晃晕了，还能打赏你？安静点不好么。</p>
-<a id="more"></a>
-<h3 id="原来的样式"><a href="#原来的样式" class="headerlink" title="原来的样式"></a>原来的样式</h3><p><img src="http://od3p9hvyr.bkt.clouddn.com/pay_shake.gif" alt=""></p>
-<h3 id="调整后的样式"><a href="#调整后的样式" class="headerlink" title="调整后的样式"></a>调整后的样式</h3><p><img src="http://od3p9hvyr.bkt.clouddn.com/pay_noshake.gif" alt=""></p>
-<h3 id="具体修改方法"><a href="#具体修改方法" class="headerlink" title="具体修改方法"></a>具体修改方法</h3><p>修改该文件： 博客根目录/themes/next/source/css/_common/components/post/post-reward.styl</p>
-<p>打开后搜索wechat:hover和alipay:hover,将这个动画样式注释掉就好（下面第1，12行）</p>
-<p><strong>代码段:</strong><br><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div></pre></td><td class="code"><pre><div class="line">/* comment by shiming, don&apos;t need animation</div><div class="line"> #wechat:hover p&#123;</div><div class="line">    animation: roll 0.1s infinite linear;</div><div class="line">    -webkit-animation: roll 0.1s infinite linear;</div><div class="line">    -moz-animation: roll 0.1s infinite linear;</div><div class="line">&#125;</div><div class="line"> #alipay:hover p&#123;</div><div class="line">    animation: roll 0.1s infinite linear;</div><div class="line">    -webkit-animation: roll 0.1s infinite linear;</div><div class="line">    -moz-animation: roll 0.1s infinite linear;</div><div class="line">&#125;</div><div class="line">*/</div></pre></td></tr></table></figure></p>
-<p>如果本文对你有帮助，欢迎尝试打赏:) 打赏完了请微信@huahuayu 手动通知我一下，加个好友，否则不知道是谁。</p>
-<p>这种打赏相当于面对面付款，不像微信公众账号里有打赏计数和头像列表，但是应该可以统计读者点击打赏按钮的次数，来从侧面反映文章受欢迎程度。</p>
-<h4 id="hexo首篇文章后记"><a href="#hexo首篇文章后记" class="headerlink" title="hexo首篇文章后记"></a>hexo首篇文章后记</h4><p>这是我在hexo博客的第一篇文章。其实我从09年就开始写独立博客，后来没有坚持，然后荒废了一段时间后索性域名也不续费了。现在再想注册回那个域名，妈蛋，标价18000，后续续费还200一年，日了狗了。。。算了，得不到的就是最好的</p>
-<p><strong>hexo和markdown重燃了我写博客的热情，但没圈子没读者没意思，也坚持不下来。有臭味相投的我们交个朋友，做个友情链接，分享圈内信息，甚至线下聚会都可以，这也是写博客最大的乐趣了吧！</strong></p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;h3 id=&quot;为博客添加打赏功能&quot;&gt;&lt;a href=&quot;#为博客添加打赏功能&quot; class=&quot;headerlink&quot; title=&quot;为博客添加打赏功能&quot;&gt;&lt;/a&gt;为博客添加打赏功能&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;参考链接：&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;next主题各种设置，包括打赏: &lt;a href=&quot;http://theme-next.iissnan.com/theme-settings.html&quot;&gt;http://theme-next.iissnan.com/theme-settings.html&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;打赏功能贡献者@habren的原帖: &lt;a href=&quot;https://github.com/iissnan/hexo-theme-next/pull/687&quot;&gt;https://github.com/iissnan/hexo-theme-next/pull/687&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&quot;hexo博客打赏样式调整&quot;&gt;&lt;a href=&quot;#hexo博客打赏样式调整&quot; class=&quot;headerlink&quot; title=&quot;hexo博客打赏样式调整&quot;&gt;&lt;/a&gt;hexo博客打赏样式调整&lt;/h3&gt;&lt;p&gt;看图说话，大家可以对比下调整前和调整后的效果。调整前真是晃瞎眼，读者被晃晕了，还能打赏你？安静点不好么。&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="技术" scheme="http://80tianhuanyou.io/categories/%E6%8A%80%E6%9C%AF/"/>
-    
-    
-      <category term="hexo" scheme="http://80tianhuanyou.io/tags/hexo/"/>
-    
-      <category term="next" scheme="http://80tianhuanyou.io/tags/next/"/>
-    
-      <category term="css" scheme="http://80tianhuanyou.io/tags/css/"/>
-    
-      <category term="github" scheme="http://80tianhuanyou.io/tags/github/"/>
-    
-      <category term="blog" scheme="http://80tianhuanyou.io/tags/blog/"/>
     
   </entry>
   
